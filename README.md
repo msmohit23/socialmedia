@@ -1,20 +1,8 @@
-# I'll Be Honest
 
-## DESCRIPTION
+
+# DESCRIPTION
 A cutthroat hobbyist social media fullstack web development platform where users can submit posts for two types of audience feedback: "Don't Make Me Cry" or "Roast Me, Baby".
 
-
-  ## Table of Contents
-
-  * [Features](#features)
-
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Technologies](#technologies)
-  * [Contribution](#contribution)
-  * [Questions](#questions) 
-  
   ## FEATURES
   
   ### MINIMAL VIABLE PRODUCT (MVP):
