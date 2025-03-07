@@ -107,18 +107,5 @@ A cutthroat hobbyist social media fullstack web development platform where users
   7. [Sass](https://sass-lang.com/) & [BootStrap](https://getbootstrap.com/)
   8. [Heroku](http://heroku.com/)
 
-  ## Contribution
-  Contributor Covenant 2.0 available at https://www.contributor-covenant.org/
-  ## Questions
-
- Visit our GitHubs: [GildedRose](https://github.com/GildedRose), 
- [Devmadia](https://github.com/Devmadia),
- [Ottiemobile](https://github.com/Ottiemobile),
- [ericy98](https://github.com/ericy98),
- [osadenaike](https://github.com/osadenaike)
-
-  If you have any additional questions not answered here or wish to contact me regarding developments, please email us at 
-  [thedevmadia@gmail.com](mailto:thedevmadia@gmail.com)
-
 
 
